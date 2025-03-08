@@ -121,6 +121,7 @@ func (hook *LokiHook) buildRequest(batch *loki.Batch) (*http.Request, error) {
 	}
 
 	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("X-Scope-OrgID", "tenant1")
 	if hook.opts.BasicAuth() != nil {
 		req.SetBasicAuth(hook.opts.BasicAuth().Username, hook.opts.BasicAuth().Password)
 	}
