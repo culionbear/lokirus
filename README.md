@@ -5,11 +5,11 @@
 <h3 align="center">
   A <a href="https://grafana.com/oss/loki/">Loki</a> hook for <a href="https://github.com/Sirupsen/logrus">Logrus</a>
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yukitsune/lokirus/go.yml?branch=main)](https://github.com/YuKitsune/lokirus/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yukitsune/lokirus)](https://goreportcard.com/report/github.com/yukitsune/lokirus)
-[![License](https://img.shields.io/github/license/YuKitsune/lokirus)](https://github.com/YuKitsune/lokirus/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/YuKitsune/lokirus?include_prereleases)](https://github.com/YuKitsune/lokirus/releases)
-[![PkgGoDev](https://pkg.go.dev/badge/mod/github.com/yukitsune/lokirus)](https://pkg.go.dev/mod/github.com/yukitsune/lokirus)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/culionbear/lokirus/go.yml?branch=main)](https://github.com/culionbear/lokirus/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/culionbear/lokirus)](https://goreportcard.com/report/github.com/culionbear/lokirus)
+[![License](https://img.shields.io/github/license/culionbear/lokirus)](https://github.com/culionbear/lokirus/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/culionbear/lokirus?include_prereleases)](https://github.com/culionbear/lokirus/releases)
+[![PkgGoDev](https://pkg.go.dev/badge/mod/github.com/culionbear/lokirus)](https://pkg.go.dev/mod/github.com/culionbear/lokirus)
 
   <img src="demo.gif" />
 </h3>
@@ -17,7 +17,7 @@
 # Installation
 
 ```sh
-go get github.com/yukitsune/lokirus
+go get github.com/culionbear/lokirus
 ```
 
 # Usage

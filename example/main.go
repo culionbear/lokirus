@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
+	"github.com/culionbear/lokirus"
 	"github.com/sirupsen/logrus"
-	"github.com/yukitsune/lokirus"
 )
 
 func main() {

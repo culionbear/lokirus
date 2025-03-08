@@ -10,10 +10,10 @@ import (
 	"strconv"
 	"testing"
 
+	"github.com/culionbear/lokirus"
+	"github.com/culionbear/lokirus/loki"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
-	"github.com/yukitsune/lokirus"
-	"github.com/yukitsune/lokirus/loki"
 )
 
 const testFormatterPrefix = "this is a test"

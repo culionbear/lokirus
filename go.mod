@@ -1,4 +1,4 @@
-module github.com/yukitsune/lokirus
+module github.com/culionbear/lokirus
 
 go 1.18
 

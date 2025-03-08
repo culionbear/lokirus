@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
+	"github.com/culionbear/lokirus/loki"
 	"github.com/sirupsen/logrus"
-	"github.com/yukitsune/lokirus/loki"
 )
 
 const pushLogsPath = "/loki/api/v1/push"
